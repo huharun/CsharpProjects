@@ -1,0 +1,14 @@
+C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\bin\Debug\net9.0\CsharpWebIDE.exe
+C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\bin\Debug\net9.0\CsharpWebIDE.deps.json
+C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\bin\Debug\net9.0\CsharpWebIDE.runtimeconfig.json
+C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\bin\Debug\net9.0\CsharpWebIDE.dll
+C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\bin\Debug\net9.0\CsharpWebIDE.pdb
+C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\obj\Debug\net9.0\CsharpWebIDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\obj\Debug\net9.0\CsharpWebIDE.AssemblyInfoInputs.cache
+C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\obj\Debug\net9.0\CsharpWebIDE.AssemblyInfo.cs
+C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\obj\Debug\net9.0\CsharpWebIDE.csproj.CoreCompileInputs.cache
+C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\obj\Debug\net9.0\CsharpWebIDE.dll
+C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\obj\Debug\net9.0\refint\CsharpWebIDE.dll
+C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\obj\Debug\net9.0\CsharpWebIDE.pdb
+C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\obj\Debug\net9.0\CsharpWebIDE.genruntimeconfig.cache
+C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\obj\Debug\net9.0\ref\CsharpWebIDE.dll
