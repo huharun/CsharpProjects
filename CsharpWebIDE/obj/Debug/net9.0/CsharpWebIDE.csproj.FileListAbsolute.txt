@@ -12,3 +12,4 @@ C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\obj\Debug\net9.0\ref
 C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\obj\Debug\net9.0\CsharpWebIDE.pdb
 C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\obj\Debug\net9.0\CsharpWebIDE.genruntimeconfig.cache
 C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\obj\Debug\net9.0\ref\CsharpWebIDE.dll
+C:\Users\arunr\OneDrive\Desktop\CsharpProjects\CsharpWebIDE\obj\Debug\net9.0\CsharpWebIDE.sourcelink.json
